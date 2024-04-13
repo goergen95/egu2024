@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "MAPME Initiative",
+    "section": "Overview",
+    "text": "Overview\n \n\nWhat is the MAPME Initiative?\nWhat tools do we develop?\nHow do we use them?"
+  },
+  {
+    "objectID": "index.html#mapme-initiative",
+    "href": "index.html#mapme-initiative",
+    "title": "MAPME Initiative",
+    "section": "MAPME Initiative",
+    "text": "MAPME Initiative"
+  },
+  {
+    "objectID": "index.html#mapme-initiative-1",
+    "href": "index.html#mapme-initiative-1",
+    "title": "MAPME Initiative",
+    "section": "MAPME Initiative",
+    "text": "MAPME Initiative\n\n\n  \n\n\n\nMAps for Planning, Monitoring, and Evaluation in the development cooperation sector\ndriven by geo-enthusiasts in KfW, IRD, AFD, and GIZ\nbased on the principles of digital development:\n\ndesign with people\nshare, reuse, and improve\nuse evidence to improve outcomes"
+  },
+  {
+    "objectID": "index.html#mapme-initiative-2",
+    "href": "index.html#mapme-initiative-2",
+    "title": "MAPME Initiative",
+    "section": "MAPME Initiative",
+    "text": "MAPME Initiative"
+  },
+  {
+    "objectID": "index.html#mapme-tooling",
+    "href": "index.html#mapme-tooling",
+    "title": "MAPME Initiative",
+    "section": "MAPME Tooling",
+    "text": "MAPME Tooling"
+  },
+  {
+    "objectID": "index.html#mapme-tooling-1",
+    "href": "index.html#mapme-tooling-1",
+    "title": "MAPME Initiative",
+    "section": "MAPME Tooling",
+    "text": "MAPME Tooling\n\nMAPME tooling can be found online on github.com/mapme-initiative."
+  },
+  {
+    "objectID": "index.html#use-cases",
+    "href": "index.html#use-cases",
+    "title": "MAPME Initiative",
+    "section": "Use cases",
+    "text": "Use cases"
+  },
+  {
+    "objectID": "index.html#monitoring-forest-loss-in-latin-america",
+    "href": "index.html#monitoring-forest-loss-in-latin-america",
+    "title": "MAPME Initiative",
+    "section": "Monitoring forest loss in Latin America",
+    "text": "Monitoring forest loss in Latin America\n\n\n \n\n \n\n\nOpen-source analysis and reporting codes developed by KfW."
+  },
+  {
+    "objectID": "index.html#measuring-project-impact-to-reduce-forest-loss",
+    "href": "index.html#measuring-project-impact-to-reduce-forest-loss",
+    "title": "MAPME Initiative",
+    "section": "Measuring project impact to reduce forest loss",
+    "text": "Measuring project impact to reduce forest loss\n\n\n\n\n \nMatching approach to estimate avoided forest loss presented by KfW at COP15."
+  },
+  {
+    "objectID": "index.html#online-training-materials-for-university-students",
+    "href": "index.html#online-training-materials-for-university-students",
+    "title": "MAPME Initiative",
+    "section": "Online training materials for university students",
+    "text": "Online training materials for university students\n\n\n\n\n\nOpen materials developed by IRD for a training session in Sénégal."
+  },
+  {
+    "objectID": "index.html#thank-you-for-your-attention",
+    "href": "index.html#thank-you-for-your-attention",
+    "title": "MAPME Initiative",
+    "section": "Thank you for your attention!",
+    "text": "Thank you for your attention!"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "MAPME Initiative",
+    "section": "References",
+    "text": "References\n \n\n\nGDAL/OGR contributors. 2024. GDAL/OGR Geospatial Data Abstraction Software Library. Open Source Geospatial Foundation. https://doi.org/10.5281/zenodo.5884351.\n\n\nHijmans, Robert J. 2024. Terra: Spatial Data Analysis. https://rspatial.org/.\n\n\nPebesma, Edzer. 2018. “Simple Features for R: Standardized Support for Spatial Vector Data.” The R Journal 10 (1): 439–46. https://doi.org/10.32614/RJ-2018-009.\n\n\n\n\n\n\nEarth Observations for Assessing and Monitoring the UN Sustainable Development Goals (ITS3.3/ESSI4.1) - EGU2024 - Vienna"
+  }
+]

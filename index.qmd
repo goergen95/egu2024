@@ -1,0 +1,130 @@
+---
+title: "MAPME Initiative"
+title-slide-attributes:
+    data-background-image: assets/mapme-header.png
+    data-background-size: contain
+    data-background-opacity: "0.7"
+subtitle: "Versatile analysis tool for big geospatial data in the context of sustainable development"
+author: "Darius A. Görgen"
+date: "2024-04-18"
+footer: "Earth Observations for Assessing and Monitoring the UN Sustainable Development Goals (ITS3.3/ESSI4.1) - EGU2024 - Vienna"
+bibliography: assets/references.bib
+nocite: |
+  @*
+format: 
+  revealjs: 
+    logo: assets/mapme-logo.png
+    slide-number: c/t
+    show-slide-number: print
+    progress: true
+    preview-links: true
+css: assets/style.css
+---
+
+## Overview {.smaller}
+
+<br>
+<br>
+
+- What is the MAPME Initiative?
+- What tools do we develop?
+- How do we use them?
+
+## MAPME Initiative {.center}
+
+
+## MAPME Initiative {.smaller}
+
+::: columns
+
+::: {.column width="40%"}
+<br>
+<br>
+[![](assets/mapme-components.svg)](https://www.mapme-initiative.org/){fig-align="left"}
+:::
+
+
+::: {.column width="60%"}
+<br>
+
+- **MA**ps for **P**lanning, **M**onitoring, and **E**valuation in the development cooperation sector
+
+- driven by geo-enthusiasts in [KfW](https://www.kfw.de/kfw.de.html), [IRD](https://en.ird.fr/), [AFD](https://www.afd.fr/fr), and [GIZ](https://www.giz.de/) 
+
+- based on the [principles of digital development](https://digitalprinciples.org/):
+  - design with people
+  - share, reuse, and improve
+  - use evidence to improve outcomes
+:::
+
+:::
+
+
+## MAPME Initiative {.smaller}
+
+:::columns
+::: {.column width="50%"}
+![](assets/geo-data-analysis-without-mapme.svg)
+:::
+::: {.column width="50%"}
+![](assets/geo-data-analysis-with-mapme.svg)
+:::
+:::
+
+## MAPME Tooling {.center}
+
+## MAPME Tooling {.smaller}
+
+![](assets/mapme-compute.png)
+
+MAPME tooling can be found online on [github.com/mapme-initiative](https://github.com/mapme-initiative/).
+
+## Use cases {.center}
+
+## Monitoring forest loss in Latin America {.smaller}
+
+:::columns
+::: {.column width="50%"}
+<br>
+![](assets/kfw-map.png)
+:::
+::: {.column width="50%"}
+<br>
+![](assets/kfw-lollipop.png)
+:::
+:::
+
+Open-source analysis and reporting [codes](https://openkfw.github.io/mapme.protectedareas/index.html) developed by KfW.
+
+## Measuring project impact to reduce forest loss 
+
+:::columns
+::: {.column width="50%"}
+![](assets/kfw-flyer.png){height=450}
+:::
+
+::: {.column width="50%" style="font-size: 70%;"}
+<br>
+![](assets/kfw-matching.png)
+
+Matching approach to estimate avoided forest loss presented by [KfW at COP15](https://www.kfw-entwicklungsbank.de/PDF/Evaluierung/Themenbezogene-Evaluierungen/FZE_PA_onepager.pdf). 
+:::
+:::
+
+
+## Online training materials for university students {style="font-size: 70%;"}
+
+![](assets/ird-training.png){fig-align="center" height=480}
+
+[Open materials](https://lenaigmoign.github.io/JUMI_R/) developed by IRD for a training session in Sénégal.
+
+
+## Thank you for your attention! {.center}
+
+
+## References {.smaller}
+<br>
+<br>
+
+::: {#refs}
+:::
