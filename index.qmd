@@ -3,7 +3,8 @@ title: "MAPME Initiative"
 title-slide-attributes:
     data-background-image: assets/mapme-header.png
     data-background-size: contain
-    data-background-opacity: "0.7"
+    data-background-opacity: "0.75"
+    data-background-position: 44% 100%
 subtitle: "Versatile analysis tool for big geospatial data in the context of sustainable development"
 author: "Darius A. Görgen"
 date: "2024-04-18"
@@ -19,6 +20,7 @@ format:
     progress: true
     preview-links: true
 css: assets/style.css
+
 ---
 
 ## Overview {.smaller}
@@ -30,7 +32,7 @@ css: assets/style.css
 - What tools do we develop?
 - How do we use them?
 
-## MAPME Initiative {.center}
+## MAPME Initiative {.center background-color="#032733"}
 
 
 ## MAPME Initiative {.smaller}
@@ -71,7 +73,7 @@ css: assets/style.css
 :::
 :::
 
-## MAPME Tooling {.center}
+## MAPME Tooling {.center background-color="#032733"}
 
 ## MAPME Tooling {.smaller}
 
@@ -79,7 +81,7 @@ css: assets/style.css
 
 MAPME tooling can be found online on [github.com/mapme-initiative](https://github.com/mapme-initiative/).
 
-## Use cases {.center}
+## Use cases {.center background-color="#032733"}
 
 ## Monitoring forest loss in Latin America {.smaller}
 
@@ -119,7 +121,7 @@ Matching approach to estimate avoided forest loss presented by [KfW at COP15](ht
 [Open materials](https://lenaigmoign.github.io/JUMI_R/) developed by IRD for a training session in Sénégal.
 
 
-## Thank you for your attention! {.center}
+## Thank you for your attention! {.center background-color="#032733"}
 
 
 ## References {.smaller}
