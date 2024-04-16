@@ -7,7 +7,7 @@ title-slide-attributes:
     data-background-image: assets/mapme-header.png
     data-background-size: contain
     data-background-opacity: "0.75"
-    data-background-position: 44% 100%
+    data-background-position: 44% 50%
 format: 
   revealjs: 
     logo: assets/mapme-logo.png
