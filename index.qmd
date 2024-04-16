@@ -1,26 +1,25 @@
 ---
 title: "MAPME Initiative"
+subtitle: "Versatile analysis tool for big geospatial data in the context of sustainable development"
+author: "Darius A. Görgen"
+date: "2024-04-18"
 title-slide-attributes:
     data-background-image: assets/mapme-header.png
     data-background-size: contain
     data-background-opacity: "0.75"
     data-background-position: 44% 100%
-subtitle: "Versatile analysis tool for big geospatial data in the context of sustainable development"
-author: "Darius A. Görgen"
-date: "2024-04-18"
-footer: "Earth Observations for Assessing and Monitoring the UN Sustainable Development Goals (ITS3.3/ESSI4.1) - EGU2024 - Vienna"
-bibliography: assets/references.bib
-nocite: |
-  @*
 format: 
   revealjs: 
     logo: assets/mapme-logo.png
     slide-number: c/t
-    show-slide-number: print
+    show-slide-number: all
     progress: true
     preview-links: true
+    footer: "Earth Observations for Assessing and Monitoring the UN Sustainable Development Goals (ITS3.3/ESSI4.1) - EGU2024 - Vienna"
 css: assets/style.css
-
+bibliography: assets/references.bib
+nocite: |
+  @*
 ---
 
 ## Overview {.smaller}
@@ -31,6 +30,21 @@ css: assets/style.css
 - What is the MAPME Initiative?
 - What tools do we develop?
 - How do we use them?
+
+<br>
+
+
+::: columns
+
+::: {.column width="50%"}
+![Abstract EGU24-18584](assets/egu24-18584-qr.png){fig-align="left"}
+:::
+
+::: {.column width="50%"}
+![Sharing is encouraged!](assets/egu2024-sharing-is-encouraged.png){width="20%" fig-align="left"}
+:::
+
+:::
 
 ## MAPME Initiative {.center background-color="#032733"}
 

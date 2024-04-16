@@ -11,7 +11,7 @@
     "href": "index.html#overview",
     "title": "MAPME Initiative",
     "section": "Overview",
-    "text": "Overview\n \n\nWhat is the MAPME Initiative?\nWhat tools do we develop?\nHow do we use them?"
+    "text": "Overview\n \n\nWhat is the MAPME Initiative?\nWhat tools do we develop?\nHow do we use them?\n\n\n\n\n\n\n\nAbstract EGU24-18584\n\n\n\n\n\n\nSharing is encouraged!"
   },
   {
     "objectID": "index.html#mapme-initiative",
@@ -88,6 +88,6 @@
     "href": "index.html#references",
     "title": "MAPME Initiative",
     "section": "References",
-    "text": "References\n \n\n\nGDAL/OGR contributors. 2024. GDAL/OGR Geospatial Data Abstraction Software Library. Open Source Geospatial Foundation. https://doi.org/10.5281/zenodo.5884351.\n\n\nHijmans, Robert J. 2024. Terra: Spatial Data Analysis. https://rspatial.org/.\n\n\nPebesma, Edzer. 2018. “Simple Features for R: Standardized Support for Spatial Vector Data.” The R Journal 10 (1): 439–46. https://doi.org/10.32614/RJ-2018-009.\n\n\n\n\n\n\nEarth Observations for Assessing and Monitoring the UN Sustainable Development Goals (ITS3.3/ESSI4.1) - EGU2024 - Vienna"
+    "text": "References\n \n\n\nGDAL/OGR contributors. 2024. GDAL/OGR Geospatial Data Abstraction Software Library. Open Source Geospatial Foundation. https://doi.org/10.5281/zenodo.5884351.\n\n\nHijmans, Robert J. 2024. Terra: Spatial Data Analysis. https://rspatial.org/.\n\n\nLenaïg Moign, Florent Bédécarrats. 2023. French National Research Institute for Sustainable Developement. https://lenaigmoign.github.io/JUMI_R/.\n\n\nMelvin Wong, Jochen Kluve, Johannes Schielein. 2022. Kreditanstalt für Wiederaufbau (KfW). https://www.kfw-entwicklungsbank.de/PDF/Evaluierung/Themenbezogene-Evaluierungen/FZE_PA_onepager.pdf.\n\n\nPebesma, Edzer. 2018. “Simple Features for R: Standardized Support for Spatial Vector Data.” The R Journal 10 (1): 439–46. https://doi.org/10.32614/RJ-2018-009.\n\n\n\n\n\n\nEarth Observations for Assessing and Monitoring the UN Sustainable Development Goals (ITS3.3/ESSI4.1) - EGU2024 - Vienna"
   }
 ]
