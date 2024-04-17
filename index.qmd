@@ -65,7 +65,7 @@ nocite: |
 
 - **MA**ps for **P**lanning, **M**onitoring, and **E**valuation in the development cooperation sector
 
-- driven by geo-enthusiasts in [KfW](https://www.kfw.de/kfw.de.html), [IRD](https://en.ird.fr/), [AFD](https://www.afd.fr/fr), and [GIZ](https://www.giz.de/) 
+- driven by geo-enthusiasts in [KfW](https://www.kfw.de/kfw.de.html), [GIZ](https://www.giz.de/), [IRD](https://en.ird.fr/), and [AFD](https://www.afd.fr/fr)
 
 - based on the [principles of digital development](https://digitalprinciples.org/):
   - design with people
